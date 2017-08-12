@@ -1,2 +1,2 @@
 # psychology
-psychology
+symfony project installation
